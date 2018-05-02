@@ -8,7 +8,7 @@ This folder contains code samples for [ABBYY Real-Time Recognition SDK](http://r
 ## Donate
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-[Bitcoin](http://storm-east.com/)
+[Bitcoin Donation](http://storm-east.com/)
 
 ## Contact
 email & Skype: rishandev@outlook.com
